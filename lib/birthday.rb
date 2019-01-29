@@ -4,7 +4,7 @@
 #   "Amanda" => 27
 # }
 
-happy_birthday(birthday_kids)
+
 
 def happy_birthday(birthday_kids)
   greet = " "
@@ -14,4 +14,4 @@ end
   greet
 end
 
-
+happy_birthday(birthday_kids)
