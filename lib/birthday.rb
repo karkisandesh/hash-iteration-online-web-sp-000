@@ -4,6 +4,8 @@
 #   "Amanda" => 27
 # }
 
+happy_birthday(birthday_kids)
+
 def happy_birthday(birthday_kids)
   greet = " "
   birthday_kids.each do |kids_name, age|
