@@ -1,8 +1,8 @@
-birthday_kids = {
-  "Timmy" => 9, 
-  "Sarah" => 6, 
-  "Amanda" => 27
-}
+# birthday_kids = {
+#   "Timmy" => 9, 
+#   "Sarah" => 6, 
+#   "Amanda" => 27
+# }
 
 
 
@@ -14,4 +14,3 @@ end
   greet
 end
 
-happy_birthday(birthday_kids)
